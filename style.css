@@ -78,7 +78,7 @@ section {
   position: relative;
   height: 100vh;
   /* width: 100%; */
-  background-image: url(/assets/max_home.png);
+  background-image: url(./assets/max_home.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
